@@ -33,4 +33,4 @@ Welcome to my professional portfolio website showcasing my work as a Java Full S
 - Technology Migration & Modernization
 
 ---
-© 2024-2025 Sai Chaitanya Ampabathina. All rights reserved.
+© 1998-Infinity Sai Chaitanya Ampabathina. All rights reserved.
